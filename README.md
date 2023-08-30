@@ -11,8 +11,8 @@ It should give a easier time looking for any parameter.
 If you need to change anything, please do not edit the included files.
 Use the "USER OVERRIDES" section bellow, paste what you need and it will 
 override the values on the included file.
-The size of the printer has been set to the maximum capable
-It is be 235x220x250
+I'm working on using the biggeste are possible and on changing the fans names.
+As soon as I take care of it, I will update the repo.
 
 As some of you may know, on every restart/boot of the machine, it copies the stock files from a folder, 
 removing every major changes you have made.
