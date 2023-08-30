@@ -36,5 +36,7 @@ In order to make the changes permanent, you need to edit a file almost like we h
 
 Now you can make any changes you need.
 Either my files shared on this repo or any other firmware files.
+If you use my files, keep the structure as is. K1 folder with all the includes inside.
+You can delete everything from your printer but not moonraker.conf and timepalse.cfg (if you have it).
 
 Enjoy, hope this is useful.
