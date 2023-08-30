@@ -36,6 +36,6 @@ Now you can make any changes you need.
 Either my files shared on this repo or any other firmware files.
 If you use my files, keep the structure as is. K1 folder with all the includes inside.
 You can delete everything from your printer but not moonraker.conf and timepalse.cfg (if you have it).
-All the files are shared above or on the [releases](https://github.com/3dprintpt/K1_organized_firmware) page.
+All the files are shared above or on the [releases](https://github.com/3dprintpt/K1_organized_firmware/releases/tag/K1_firmware) page.
 
 Enjoy, hope this is useful.
