@@ -15,7 +15,7 @@ As soon as I take care of it, I will update the repo.
 As some of you may know, on every restart/boot of the machine, it copies the stock files from a folder, 
 removing every major changes you have made.
 In order to make the changes permanent, you need to edit a file almost like we have to do with moonraker.
-(If you want/need to make the moonraker changes, check [this link](https://github.com/Guilouz/Creality-K1-and-K1-Max/wiki/Permanent-Moonraker-Configuration), thanks to Guilouz.
+(If you want/need to make the moonraker changes, check [this link](https://github.com/Guilouz/Creality-K1-and-K1-Max/wiki/Permanent-Moonraker-Configuration), thanks to Guilouz.)
 
 
 **Make permanent Klipper configuration**
