@@ -27,5 +27,14 @@ In order to make the changes permanent, you need to edit a file almost like we h
 - Locate the S55klipper_service file and right click on it and select Open with default text editor:
 ![2](https://github.com/3dprintpt/K1_organized_firmware/assets/86446936/6fd9c826-0abe-48fb-afe4-a8c5e1e5a68f)
 
-- Comment or delete the complete "copy_config()" section
-  
+- Comment or delete the complete "copy_config()" section (like in the image).
+  ![3](https://github.com/3dprintpt/K1_organized_firmware/assets/86446936/778d7b49-6a13-4884-9d65-62523d8f1731)
+
+- Click the save button and then click on "yes" when you are prompted to upload the changes to the machine.
+![4](https://github.com/3dprintpt/K1_organized_firmware/assets/86446936/5ad0b94a-ab8c-4327-ad45-71cf27c78fcd)
+![5](https://github.com/3dprintpt/K1_organized_firmware/assets/86446936/903d2217-52e0-46b7-8f6d-d8fc601eb199)
+
+Now you can make any changes you need.
+Either my files shared on this repo or any other firmware files.
+
+Enjoy, hope this is useful.
