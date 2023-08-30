@@ -4,8 +4,8 @@ Better organized firmware for the Creality K1 printer
 **######## FOR EXPLOITED/ROOTED MACHINES ONLY ########**
 
 This is a different and more clear organization of the config files.
-Everything has been separated by theme, Like bed leveling, macros, etc.
-It should give a easier time looking for any parameter.
+Everything has been separated by theme, like bed leveling, macros, etc.
+It should give an easier time looking for any parameter.
 If you need to change anything, please do not edit the included files.
 Use the "USER OVERRIDES" section bellow, paste what you need and it will 
 override the values on the included file.
