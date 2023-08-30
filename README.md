@@ -1,7 +1,7 @@
 # K1 firmware files
 Better organized firmware for the Creality K1 printer
 
-######## FOR EXPLOITED/ROOTED MACHINES ONLY ########
+**######## FOR EXPLOITED/ROOTED MACHINES ONLY ########**
 
 This is a different and more clear organization of the config files.
 Everything has been separated by theme, Like bed leveling, macros, etc.
