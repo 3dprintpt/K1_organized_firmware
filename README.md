@@ -19,6 +19,8 @@ Check [releases](https://github.com/3dprintpt/K1_organized_firmware/releases) pa
 
 ##########################################################################################################
 
+**THIS PART IS NO LONGER NEEDED**
+
 As some of you may know, on every restart/boot of the machine, it copies the stock files from a folder, 
 removing every major changes you have made.
 In order to make the changes permanent, you need to edit a file almost like we have to do with moonraker.
