@@ -16,6 +16,8 @@ As soon as I take care of it, I will update the repo.
 
 Check [releases](https://github.com/3dprintpt/K1_organized_firmware/releases) page for the latest.
 
+Releases will be updated as soon as an update is released.
+
 
 ##########################################################################################################
 
