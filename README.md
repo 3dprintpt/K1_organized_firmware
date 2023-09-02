@@ -12,11 +12,12 @@ override the values on the included file.
 I'm working on using the biggeste are possible and on changing the fans names.
 As soon as I take care of it, I will update the repo.
 
-**############################################
-##################OUTDATED##################
-############################################**
+**##################OUTDATED##################**
 
 Check [releases](https://github.com/3dprintpt/K1_organized_firmware/releases) page for the latest.
+
+
+##########################################################################################################
 
 As some of you may know, on every restart/boot of the machine, it copies the stock files from a folder, 
 removing every major changes you have made.
