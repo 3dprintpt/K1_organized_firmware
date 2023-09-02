@@ -18,6 +18,7 @@ Check [releases](https://github.com/3dprintpt/K1_organized_firmware/releases) pa
 
 Releases will be updated as soon as an update is released.
 
+Remember to calibrate after an update.
 
 ##########################################################################################################
 
