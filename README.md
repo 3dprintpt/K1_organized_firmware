@@ -1,6 +1,9 @@
 # K1 firmware files
 Better organized firmware for the Creality K1 printer
 
+Latest release for version 1.3.2.1.
+Follow the instructions on Releases page.
+
 **######## FOR EXPLOITED/ROOTED MACHINES ONLY ########**
 
 This is a different and more clear organization of the config files.
